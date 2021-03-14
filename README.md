@@ -1,6 +1,11 @@
+<meta http-equiv="refresh" content="0; url=https://codeberg.org/monilophyta/imageio-flif" />
+
 # imageio-FLIF
 
 imageio plugin with FLIF wrapper for Python
+
+Code repository here: [https://codeberg.org/monilophyta/imageio-flif](https://codeberg.org/monilophyta/imageio-flif)
+
 
 ## Purpose
 
